@@ -34,7 +34,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        人生是有限的，但好用的知识太多(比如人工智能)，不满足现状，持续学习和思考，才能让未来的自己不成为禁锢在当前的井底之蛙。
+        人生是有限的，但好用的知识太多(比如人工智能)，不满足现状，持续学习才能让自己持续进化。
       </>
     ),
   },

@@ -56,11 +56,15 @@ const config = {
             items: [
               {
                 label: "MIT 6.006 Introduction to Algorithms",
-                to: "/docs/introduction-to-algorithms/intro/",
+                to: "/docs/introduction-to-algorithms/",
               },
               {
                 label: "MIT 6.824 Distributed Systems",
-                to: "/docs/distributed-systems/intro/",
+                to: "/docs/distributed-systems/",
+              },
+              {
+                label: "PingCAP 302 TiDB 高级系统管理",
+                to: "https://feitian124.github.io/tidb-course-302",
               },
             ],
           },
@@ -70,14 +74,14 @@ const config = {
             items: [
               {
                 label: "Designing Data-Intensive Application",
-                to: "/docs/designing-data-intensive-application/intro/",
+                to: "/docs/designing-data-intensive-application/",
               },
             ],
           },
-          {to: '/docs/leetcode/intro', label: 'leetcode', position: 'left'},
+          {to: '/docs/leetcode/', label: 'leetcode', position: 'left'},
           {to: '/blog', label: '博客', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/feitian124/become-top-software-engineer',
             label: 'GitHub',
             position: 'right',
           },
