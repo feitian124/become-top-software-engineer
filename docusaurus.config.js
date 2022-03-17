@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'TOP软件工程师之路',
+  tagline: '我的路径, 笔记, 心得',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -43,19 +43,39 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: 'TOP软件工程师之路',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'TOP软件工程师之路',
+          src: 'img/library.svg',
         },
         items: [
+          {to: '/docs/get-started', label: '开始', position: 'left'},
           {
-            type: 'doc',
-            docId: 'intro',
-            position: 'left',
-            label: 'Tutorial',
+            label: "课程",
+            position: "left",
+            items: [
+              {
+                label: "MIT 6.006 Introduction to Algorithms",
+                to: "/docs/introduction-to-algorithms/intro/",
+              },
+              {
+                label: "MIT 6.824 Distributed Systems",
+                to: "/docs/distributed-systems/intro/",
+              },
+            ],
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {
+            label: "书籍",
+            position: "left",
+            items: [
+              {
+                label: "Designing Data-Intensive Application",
+                to: "/docs/designing-data-intensive-application/intro/",
+              },
+            ],
+          },
+          {to: '/docs/leetcode/intro', label: 'leetcode', position: 'left'},
+          {to: '/blog', label: '博客', position: 'left'},
           {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
@@ -70,8 +90,8 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: '开始',
+                to: '/docs/get-started',
               },
             ],
           },
@@ -79,16 +99,12 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'Telegram',
+                href: 'https://t.me/topcoder_club',
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                href: 'https://twitter.com/feitian124',
               },
             ],
           },
@@ -97,16 +113,16 @@ const config = {
             items: [
               {
                 label: 'Blog',
-                to: '/blog',
+                to: 'https://p2y.top/',
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/feitian124/become-top-software-engineer',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} feitian124, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,

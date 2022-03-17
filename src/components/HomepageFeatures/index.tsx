@@ -10,32 +10,31 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
+    title: '夯实基础',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        万丈高楼平地起，坚实的基础才能建造雄伟的大厦。工作一段时间后，
+        对基础的理解和需求，也不再相同。
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: '重点突破',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        软件开发已经成为一个庞大的品类，选择有兴趣有潜在价值的点，专注持续投入才能有一定的成果。我希望经过一段时间学习，
+        能成为一个优秀的分布式数据库工程师。
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: '终身学习',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        人生是有限的，但好用的知识太多(比如人工智能)，不满足现状，持续学习和思考，才能让未来的自己不成为禁锢在当前的井底之蛙。
       </>
     ),
   },
