@@ -21,7 +21,7 @@ sidebar_position: 1
 
 我的目标是通过一到两年的持续学习，成为一个优秀的**分布式数据库开发工程师**，并取得心仪的 offer, 确切的说希望是 PingCAP. 因为认可它的开源文化，且数据库的天花板高，生命周期长，可以成为一个奋斗终身的舞台。这并不是没有先例，如这个故事 [Why I studied full-time for 8 months for a Google interview](https://github.com/jwasham/coding-interview-university)。大学本科无非也是几年，现在网上的资源很多，通过自学完全可以再上一个甚至几个等级。
 
-在过去的大半年，这一直是我朦胧的想法并已经实施，我学了 golang 和 rust，看了一些分布式和数据库方面的书籍和博客，给 TiDB 贡献了一些[代码](https://github.com/pingcap/tidb/commits?author=feitian124)。今天我让这个想法更加明确，所以建了这个仓库，督促自己学习, 记录一些笔记心得.
+在过去的大半年，这一直是我朦胧的想法并已经实施，我学了 golang 和 [rust](https://twitter.com/feitian124/status/1470336297013170177)，看了一些分布式和数据库方面的书籍和博客，给 TiDB 贡献了一些[代码](https://github.com/pingcap/tidb/commits?author=feitian124)。今天我让这个想法更加明确，所以建了这个仓库，督促自己学习, 记录一些笔记心得.
 
 学习计划如下:
 
