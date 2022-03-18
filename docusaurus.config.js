@@ -64,7 +64,7 @@ const config = {
               },
               {
                 label: "PingCAP 302 TiDB 高级系统管理",
-                to: "https://feitian124.github.io/tidb-course-302",
+                href: "https://feitian124.github.io/tidb-course-302",
               },
             ],
           },
@@ -79,7 +79,7 @@ const config = {
             ],
           },
           {to: '/docs/leetcode/', label: 'leetcode', position: 'left'},
-          {to: '/blog', label: '博客', position: 'left'},
+          {href: 'https://p2y.top/', label: '博客', position: 'left'},
           {
             href: 'https://github.com/feitian124/become-top-software-engineer',
             label: 'GitHub',

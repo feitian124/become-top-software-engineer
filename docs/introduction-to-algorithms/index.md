@@ -4,3 +4,6 @@ MIT 的算法导论公开课有多个版本，最开始叫 `6.046J`，有 2008 �
 
 - [MIT 6.006 Introduction to Algorithms, Spring 2020](https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY&index=1)
 - [MIT 6.006 算法导论, 2020春, 中英字幕](https://www.bilibili.com/video/BV1fu41127MN?p=1)
+- [MIT 6.046J 算法导论](https://www.bilibili.com/video/BV1Kx411f7bL?p=1)
+
+我打算学习最老的版本
