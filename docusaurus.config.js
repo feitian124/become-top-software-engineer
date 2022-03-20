@@ -55,6 +55,10 @@ const config = {
             position: "left",
             items: [
               {
+                label: "清华 数据结构",
+                to: "/docs/data-structure/",
+              },
+              {
                 label: "MIT 6.006 Introduction to Algorithms",
                 to: "/docs/introduction-to-algorithms/",
               },

@@ -32,3 +32,11 @@ sidebar_position: 1
 3. 设计数据密集型应用(todo)
 
 期间有时间 leetcode 刷题，巩固基础和锻炼思维。
+
+## 参考学习计划
+
+- [coding-interview-university](https://github.com/jwasham/coding-interview-university)
+
+- [cs-self-learning](https://github.com/pkuflyingpig/cs-self-learning/)
+
+-[awesome-courses](https://github.com/prakhar1989/awesome-courses)
