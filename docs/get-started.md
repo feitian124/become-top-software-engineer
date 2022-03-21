@@ -25,7 +25,7 @@ sidebar_position: 1
 
 学习计划如下:
 
-1. mit 算法导论， 总计约 30 课时，每天一课时约一个月学完, 即20220418。
+1. 清华大学数据结构， 总计约 35 课时，每天一课时约一个月学完, 即20220420。
 
 2. mit 分布式系统(todo)
 
@@ -39,4 +39,4 @@ sidebar_position: 1
 
 - [cs-self-learning](https://github.com/pkuflyingpig/cs-self-learning/)
 
--[awesome-courses](https://github.com/prakhar1989/awesome-courses)
+- [awesome-courses](https://github.com/prakhar1989/awesome-courses)
