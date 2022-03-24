@@ -1,3 +1,6 @@
+---
+sidebar_position: 1
+---
 # Introduction
 
 清华大学邓俊辉教授授课的国家精品课程，[课程官网](https://dsa.cs.tsinghua.edu.cn/~deng/ds/dsacpp/index.htm),
