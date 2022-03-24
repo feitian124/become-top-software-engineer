@@ -82,7 +82,7 @@ const config = {
               },
             ],
           },
-          {to: '/docs/leetcode/', label: 'leetcode', position: 'left'},
+          {to: '/docs/codes/', label: '练习和刷题', position: 'left'},
           {href: 'https://p2y.top/', label: '博客', position: 'left'},
           {
             href: 'https://github.com/feitian124/become-top-software-engineer',
