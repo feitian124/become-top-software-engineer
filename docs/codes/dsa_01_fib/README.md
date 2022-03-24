@@ -11,3 +11,9 @@ F(N) = F(N - 1) + F(N - 2), 其中 N > 1.
 
 这一题解法很多，大的分类是四种，递归，记忆化搜索，动态规划由下至上，具体看代码。
 
+## 代码
+
+import CodeBlock from '@theme/CodeBlock';
+import Source from '!!raw-loader!./fib.go';
+
+<CodeBlock className="language-go">{Source}</CodeBlock>
